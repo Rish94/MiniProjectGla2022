@@ -1,6 +1,6 @@
 {
   "name": "caragencyminiproject",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "private": true,
   "homepage": "https://Rish94.github.io/MiniProjectGla2022",
   "dependencies": {
@@ -40,6 +40,10 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    
+    "devDependencies": {
+      "gh-pages": "^4.0.0"
+    }
   }
 }
